@@ -8,11 +8,11 @@
 
 Click below to explore the core scripts used in this real-time Kafka event-driven system:
 
-- `hdfc_broker_producer.py`  
-- `hdfc_broker_consumer.py`  
-- `nse_exchange_producer.py`  
-- `nse_exchange_consumer.py`  
-- `counter_party.py`
+- [hdfc_broker_producer.py](https://github.com/Apaulgithub/HDFC-NSE-Stock-Exchange-Processing/blob/8fb9600a3210e852fba3edcb3968216ab1c87e11/hdfc_broker_producer.py)
+- [hdfc_broker_consumer.py](https://github.com/Apaulgithub/HDFC-NSE-Stock-Exchange-Processing/blob/8fb9600a3210e852fba3edcb3968216ab1c87e11/hdfc_broker_consumer.py)
+- [nse_exchange_producer.py](https://github.com/Apaulgithub/HDFC-NSE-Stock-Exchange-Processing/blob/8fb9600a3210e852fba3edcb3968216ab1c87e11/nse_exchange_producer.py)
+- [nse_exchange_consumer.py](https://github.com/Apaulgithub/HDFC-NSE-Stock-Exchange-Processing/blob/8fb9600a3210e852fba3edcb3968216ab1c87e11/nse_exchange_consumer.py)
+- [counter_party.py](https://github.com/Apaulgithub/HDFC-NSE-Stock-Exchange-Processing/blob/8fb9600a3210e852fba3edcb3968216ab1c87e11/counter_party.py)
 
 ---
 
