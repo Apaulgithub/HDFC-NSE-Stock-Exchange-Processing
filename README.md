@@ -151,6 +151,5 @@ Overall, this project is a practical example of applying **real-time streaming s
 
 ## Author
 
-- **Arindam Paul**  
-  [LinkedIn](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
 
